@@ -1,0 +1,12 @@
+{
+  "name": "daily-count-script",
+  "version": "1.0.0",
+  "main": "Hours Sheet.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.14"
+  },
+  "scripts": {
+    "deploy": "clasp push"
+  }
+}
